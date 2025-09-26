@@ -4,7 +4,7 @@ body {
     font-family: 'Segoe UI', Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #e3eafc;
+    background-color: #effce3;
     color: #222b45;
 }
 
@@ -19,7 +19,7 @@ header {
     justify-content: space-between; /* Pour pousser les éléments aux extrémités */
     align-items: center;            /* Pour centrer verticalement */
     padding: 1rem 2rem;
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(255, 2, 2, 0.363);
 }
 
 nav ul {
