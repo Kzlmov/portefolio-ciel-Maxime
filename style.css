@@ -8,7 +8,7 @@
     background: linear-gradient(120deg, #e3eafc 0%, #f9f9f9 100%);
     border-radius: 24px;
     border: 1.5px solid #e0e6f7;
-    /* box-shadow retiré pour un style plus épuré */
+    
 }
 
 .card {
@@ -18,7 +18,7 @@
     background: linear-gradient(120deg, #fff 80%, #f3f7ff 100%);
     padding: 3rem 2.5rem 2.5rem 2.5rem;
     border-radius: 18px;
-    /* box-shadow retiré pour un style plus épuré */
+   
     box-sizing: border-box;
     display: flex;
     flex-direction: column;
@@ -29,7 +29,7 @@
 
 .card:hover {
     transform: translateY(-8px) scale(1.03);
-    /* box-shadow retiré pour un style plus épuré */
+    
 }
 
 .card h3 {
